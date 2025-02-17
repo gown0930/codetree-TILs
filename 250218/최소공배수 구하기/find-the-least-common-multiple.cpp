@@ -13,7 +13,7 @@ int main() {
         n=m;
         m=a;
     }
-    
-    cout<<x*y/m;
+    int result=(x*y)/n;
+    cout<<result;
     return 0;
 }
